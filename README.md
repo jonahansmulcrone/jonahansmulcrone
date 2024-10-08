@@ -1,4 +1,4 @@
-<h1 align="left">Hi there, I'm Jonah! </h1>
+<h1 align="left">Hi there, I'm Jonah! 👋🏻</h1>
 
 <h3 align="left">I'm fullstack developer currently working on <a href="https://savvycsv.com">SavvyCSV</a></h3>
 
@@ -10,8 +10,6 @@
 <li>💬 Ask me about React - Firebase.</li>
 <li>🤝 I’m currently looking for contract work or full-time employement!</li>
 </ul>
-
-<br> 
 
 ## 📊 GitHub Stats:
 <div align="center">
