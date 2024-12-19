@@ -1,27 +1,34 @@
 <h1 align="left">Hi there, I'm Jonah! 👋🏻</h1>
 
-<h3 align="left">I'm fullstack developer currently working on <a href="https://savvycsv.com">SavvyCSV</a></h3>
+<h3 align="left">I am a software developer currently working on <a href="https://savvycsv.com">SavvyCSV</a> while researching AI topics regarding Human Aligned Hazardous Detection (HAHD).</h3>
 
-## 👨🏼‍💻 About me
+## Education & Certifications
+<ul>
+	<li>👨🏼‍💻 Bachelor of Arts - Computer Science, Data Science Minor @ Pacific Lutheran University</li>
+	<li>👨🏼‍💼 Bachelor of Business Administration - Finance @ Pacific Lutheran University</li>
+</ul>
+
+## About me
 
 <ul>
-<li>💻 I’m currently learning Angular, Grails, & React.</li>
-<li>🏫 I am recent-graduate from [Pacific Lutheran University].</li>
+<li>💻 I’m currently learning Express, Amazon S3, & React.</li>
 <li>💬 Ask me about React - Firebase.</li>
 <li>🤝 I’m currently looking for contract work or full-time employement!</li>
 </ul>
 
-## 📊 GitHub Stats:
+## Links
+<ul>
+	<li>
+		<a href='http://jonahmulcrone.com' target="_blank">jonahmulcrone.com</a>
+	</li>
+	<li>
+		<a href='https://www.linkedin.com/in/jonah-mulcrone-964037198/' target="_blank">LinkedIn</a>
+	</li>
+</ul>
+
+## GitHub Stats:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jonahansmulcrone&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=jonahansmulcrone&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jonahansmulcrone&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="140" alt="languages graph"/>
 </div>
 
-<details><summary><h2>📈 Recent GitHub Activity</h2></summary>
-
-----
-	
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jonahansmulcrone&theme=github-compact&hide_border=true)(https://github.com/jonahansmulcrone/github-readme-activity-graph)">
- 
-</details>
