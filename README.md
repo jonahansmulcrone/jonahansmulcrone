@@ -1,6 +1,6 @@
 <h1 align="left">Hi there, I'm Jonah! 👋🏻</h1>
 
-<h3 align="left">I am a software developer currently working on <a href="https://savvycsv.com">SavvyCSV</a> while researching AI topics regarding Human Aligned Hazardous Detection (HAHD).</h3>
+<h3 align="left">I am a software developer currently working on a market research platform.</h3>
 
 ## Education & Certifications
 <ul>
@@ -11,8 +11,8 @@
 ## About me
 
 <ul>
-<li>💻 I’m currently learning Express, Amazon S3, & React.</li>
-<li>💬 Ask me about React - Firebase.</li>
+<li>💻 I’m currently learning FastAPI, Redis, & AsyncIO.</li>
+<li>💬 Ask me about React - FastAPI</li>
 <li>🤝 I’m currently looking for contract work or full-time employement!</li>
 </ul>
 
