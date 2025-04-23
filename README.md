@@ -1,6 +1,6 @@
 <h1 align="left">Hi there, I'm Jonah! 👋🏻</h1>
 
-<h3 align="left">I am a software developer currently working on a market research platform.</h3>
+<h3 align="left">I am a software developer currently working on an Investments Research platform called FinSight.</h3>
 
 ## Education & Certifications
 <ul>
