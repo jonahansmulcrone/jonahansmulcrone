@@ -1,6 +1,6 @@
 <h1 align="left">Hi there, I'm Jonah! 👋🏻</h1>
 
-<h3 align="left">I am a software developer currently working on an Investments Research platform called FinSight.</h3>
+<h3 align="left">I am a software developer @ Corporate Tools. In my free time I have been working on a project, Apple Reader, which aims to help people learn English through language acquisition.</h3>
 
 ## Education & Certifications
 <ul>
@@ -11,9 +11,8 @@
 ## About me
 
 <ul>
-<li>💻 I’m currently learning FastAPI, Redis, & AsyncIO.</li>
-<li>💬 Ask me about React - FastAPI</li>
-<li>🤝 I’m currently looking for contract work or full-time employement!</li>
+<li>💻 I’m currently learning Ruby on Rails, Vue3, & AWS Lambda/</li>
+<li>💬 Ask me about Vue3 or React.</li>
 </ul>
 
 ## Links
