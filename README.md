@@ -1,6 +1,7 @@
 <h1 align="left">Hi there, I'm Jonah! 👋🏻</h1>
 
-<h3 align="left">I am a software developer @ Corporate Tools. In my free time I have been working on a project, Apple Reader, which aims to help people learn English through language acquisition.</h3>
+<h2 align="left">I am a software developer @ Corporate Tools.</h3>
+	<p>In my free time I have been working on a project, Apple Reader, which aims to help people learn English through language acquisition.</p>
 
 ## Education & Certifications
 <ul>
